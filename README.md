@@ -4,6 +4,8 @@ AI Resume Analyzer is a smart tool that helps you evaluate how well your resume 
 
 Built with Python and Streamlit, it’s designed to help job seekers optimize their resumes for specific job roles in seconds.
 
+Live Demo Link: https://airesumeanalyzer-fr6eydd8ezqcdr6w9dwsfq.streamlit.app/
+
 🚀 Features
 
 ✅ PDF Resume Upload — Extracts and analyzes text from your uploaded resume

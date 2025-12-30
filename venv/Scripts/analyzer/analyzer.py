@@ -16,8 +16,9 @@ def analyze_resume(resume_text, job_description):
             prompt =f"""
             You are a professional career advisor.
             Compare the following RESUME and JOB DESCRIPTION.
+            - Identify top keywords
             - List missing skills or keywords.
-            - Suggest specific improvements.
+            - Suggest specific improvements or rewrites.
             - Give an overall match score (0-100%).
 
             RESUME:

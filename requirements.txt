@@ -2,4 +2,5 @@ openai>=1.0.0
 PyPDF2
 python-dotenv
 pandas
+Pillow>=11.0.0
 streamlit==1.32.2
